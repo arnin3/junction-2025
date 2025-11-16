@@ -4,6 +4,7 @@
 **Challenge**: Fortum Energy Forecasting  
 **Event**: Junction 2025 Hackathon  
 **Date**: November 16, 2025
+Video: https://youtu.be/On5bjaE7i7I
 
 ---
 
